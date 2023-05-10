@@ -3,14 +3,33 @@
 A new Flutter project.
 
 ## Getting Started
+To get started with this app, follow these steps:
 
-This project is a starting point for a Flutter application.
+Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you can run this app, you need to make sure that you have Flutter installed on your computer. If you haven't installed Flutter yet, please follow the installation instructions here.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone this repository to your local machine using git clone https://github.com/ncthanhcs/test_yaho.git.
+Navigate to the project directory using cd test_yaho.
+Run flutter pub get to install the app's dependencies.
+
+Usage
+To run the app, connect a physical device or start an emulator and then run the following command:
+
+flutter run
+
+This will launch the app on your device or emulator.
+
+Testing
+
+To run the app's tests, run the following command:
+
+flutter test
+
+This will run all the tests in the test directory.
+
+Contributing
+
+If you find any bugs or issues with this app, please submit a bug report or pull request.
